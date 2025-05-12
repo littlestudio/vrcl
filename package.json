@@ -8,7 +8,6 @@
   },
   "dependencies": {
     "astro": "^4.6.4",
-    "@astrojs/mdx": "^3.0.0",
-    "@astrojs/content": "^2.0.3"
+    "@astrojs/mdx": "^3.0.0"
   }
 }
